@@ -1,2 +1,6 @@
 another change
 another change for no fast forward command
+
+Golden rule:
+
+Rebase local branches only.
